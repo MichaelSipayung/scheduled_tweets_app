@@ -1,4 +1,6 @@
 # frozen_string_literal: true
 
-class MainController
+class MainController < ApplicationController
+  def index
+  end
 end
